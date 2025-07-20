@@ -3,6 +3,11 @@
 ## Descrição
 Este projeto foi desenvolvido para analisar o desempenho de vendas de um grupo varejista utilizando o Power BI. A visualização inclui informações detalhadas sobre o valor total das vendas, distribuição por departamentos, regiões e variações mensais. O objetivo é identificar padrões e oferecer insights para melhorar as estratégias de negócios.
 
+<img width="2000" height="1140" alt="image" src="https://github.com/user-attachments/assets/8513a68b-ff42-4e6a-bd9e-6dfe5047333e" />
+<img width="2000" height="1140" alt="image" src="https://github.com/user-attachments/assets/9aae0c65-1182-42ec-9c65-d3b14caa8aab" />
+<img width="2000" height="1140" alt="image" src="https://github.com/user-attachments/assets/20400546-ba10-41df-88b1-cba8d1cf3978" />
+<img width="2000" height="1140" alt="image" src="https://github.com/user-attachments/assets/643f5465-5d5f-4ebd-85b0-396858ba0bab" />
+
 ## Objetivos
 - Monitorar o volume de vendas por mês e região.
 - Analisar a performance de diferentes departamentos.
